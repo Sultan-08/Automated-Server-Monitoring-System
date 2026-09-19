@@ -110,4 +110,4 @@ MIT License
 
 ## Author
 
-@Sultan-08
+[Sultan Mulani](https://github.com/Sultan-08)
