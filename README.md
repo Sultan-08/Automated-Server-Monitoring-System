@@ -110,4 +110,4 @@ MIT License
 
 ## Author
 
-**Sultan Mulani**
+@Sultan-08
