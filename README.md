@@ -26,6 +26,10 @@ The system continuously monitors CPU, Memory, Disk Usage, Services, and Network 
 * Awk, Sed, Grep
 * Whiptail
 
+## Project Dashboard
+<img width="811" height="581" alt="Screenshot from 2026-09-19 20-25-09" src="https://github.com/user-attachments/assets/19f66ed5-d4e0-444b-bfdb-bd4fe3e710f3" />
+
+
 ## Project Structure
 
 ```text
