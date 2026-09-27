@@ -1,0 +1,53 @@
+[2026-09-22 14:59:12] Testing automatic log file creation
+[2026-09-24 20:18:29] CPU Monitoring Error: Unable to obtain CPU idle percentage
+[2026-09-24 20:23:52] CPU Usage: 5.50% (Threshold: 80%)
+[2026-09-24 20:25:26] High CPU Usage Detected: 2.90% (Threshold: 1%)
+[2026-09-24 20:37:16] High Memory Usage Detected: 31.89% (Threshold: 1%)
+[2026-09-24 20:38:38] Memory Usage: 31.98% (Threshold: 80%)
+[2026-09-24 20:46:02] Disk Usage: 19% on / (Threshold: 85%)
+[2026-09-25 12:36:41] Service Failure: ssh is not active (status: inactive)
+[2026-09-25 12:36:41] Service Restart Failure: ssh could not be restored
+[2026-09-25 12:44:40] Service Status: cron is active
+[2026-09-25 12:51:13] Network Connectivity: OK - 8.8.8.8 is reachable
+[2026-09-25 12:52:37] Network Connectivity Failure: 192.0.2.1 is unreachable
+[2026-09-25 12:53:21] Network Connectivity: OK - 8.8.8.8 is reachable
+[2026-09-27 19:09:49] Monitoring Controller: Started
+[2026-09-27 19:09:49] CPU Usage: 10.30% (Threshold: 80%)
+[2026-09-27 19:09:49] Monitoring Controller: CPU Monitoring completed successfully
+[2026-09-27 19:09:49] Memory Usage: 26.74% (Threshold: 80%)
+[2026-09-27 19:09:49] Monitoring Controller: Memory Monitoring completed successfully
+[2026-09-27 19:09:49] Disk Usage: 20% on / (Threshold: 85%)
+[2026-09-27 19:09:49] Monitoring Controller: Disk Monitoring completed successfully
+[2026-09-27 19:09:49] Service Status: cron is active
+[2026-09-27 19:09:49] Monitoring Controller: Service Monitoring completed successfully
+[2026-09-27 19:09:49] Network Connectivity: OK - 8.8.8.8 is reachable
+[2026-09-27 19:09:49] Monitoring Controller: Network Monitoring completed successfully
+[2026-09-27 19:09:49] Monitoring Controller Summary: Total=5 Successful=5 Failed=0
+[2026-09-27 19:09:49] Monitoring Controller: Completed
+[2026-09-27 19:29:41] CPU Usage: 3.00% (Threshold: 80%)
+[2026-09-27 19:35:37] Monitoring Controller: Started
+[2026-09-27 19:35:37] CPU Usage: 8.60% (Threshold: 80%)
+[2026-09-27 19:35:37] Monitoring Controller: CPU Monitoring completed successfully
+[2026-09-27 19:35:38] Memory Usage: 28.35% (Threshold: 80%)
+[2026-09-27 19:35:38] Monitoring Controller: Memory Monitoring completed successfully
+[2026-09-27 19:35:38] Disk Usage: 20% on / (Threshold: 85%)
+[2026-09-27 19:35:38] Monitoring Controller: Disk Monitoring completed successfully
+[2026-09-27 19:35:38] Service Status: cron is active
+[2026-09-27 19:35:38] Monitoring Controller: Service Monitoring completed successfully
+[2026-09-27 19:35:38] Network Connectivity: OK - 8.8.8.8 is reachable
+[2026-09-27 19:35:38] Monitoring Controller: Network Monitoring completed successfully
+[2026-09-27 19:35:38] Monitoring Controller Summary: Total=5 Successful=5 Failed=0
+[2026-09-27 19:35:38] Monitoring Controller: Completed
+[2026-09-27 19:41:10] Monitoring Controller: Started
+[2026-09-27 19:41:10] CPU Usage: 3.30% (Threshold: 80%)
+[2026-09-27 19:41:10] Monitoring Controller: CPU Monitoring completed successfully
+[2026-09-27 19:41:11] Memory Usage: 29.45% (Threshold: 80%)
+[2026-09-27 19:41:11] Monitoring Controller: Memory Monitoring completed successfully
+[2026-09-27 19:41:11] Disk Usage: 20% on / (Threshold: 85%)
+[2026-09-27 19:41:11] Monitoring Controller: Disk Monitoring completed successfully
+[2026-09-27 19:41:11] Service Status: cron is active
+[2026-09-27 19:41:11] Monitoring Controller: Service Monitoring completed successfully
+[2026-09-27 19:41:11] Network Connectivity: OK - 8.8.8.8 is reachable
+[2026-09-27 19:41:11] Monitoring Controller: Network Monitoring completed successfully
+[2026-09-27 19:41:11] Monitoring Controller Summary: Total=5 Successful=5 Failed=0
+[2026-09-27 19:41:11] Monitoring Controller: Completed
