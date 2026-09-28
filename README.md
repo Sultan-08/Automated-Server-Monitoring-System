@@ -1,117 +1,90 @@
-# Automated Server Monitoring & Alert System
+# Automated Server Monitoring & Alert System 🚨.
 
-A Linux-based monitoring solution developed using Bash Shell Scripting.
-The system continuously monitors CPU, Memory, Disk Usage, Services, and Network Connectivity, and sends Email Alerts when predefined thresholds are exceeded.
+A Linux-based server monitoring and alert system developed using Bash Shell Scripting and standard Linux utilities.
 
-## Features
+The system monitors important server resources and services, records monitoring information, sends email alerts when configured thresholds are exceeded, and supports automated execution using Cron.
 
-* CPU Usage Monitoring
-* Memory Usage Monitoring
-* Disk Usage Monitoring
-* Service Health Monitoring
-* Network Connectivity Monitoring
-* Email Notifications
-* Log Management
-* Cron Job Automation
-* Auto-Restart for Failed Services
-* Terminal Dashboard
+## Features -
 
-## Technologies Used
+- CPU usage monitoring.
+- Memory usage monitoring.
+- Root disk usage monitoring.
+- Linux service monitoring.
+- Automatic service restart attempt.
+- Network connectivity monitoring.
+- Email alerts using Postfix and Mailutils.
+- Centralized system and alert logging.
+- Interactive terminal dashboard.
+- Automated execution using Cron.
+- Configurable monitoring thresholds.
+- Installation script for required packages.
 
-* Bash Shell Scripting
-* Ubuntu/Linux
-* Cron
-* Mailutils
-* Systemctl
-* Awk, Sed, Grep
-* Whiptail
+## Technologies -
 
-## Project Dashboard
-<img width="811" height="581" alt="Screenshot from 2026-09-19 20-25-09" src="https://github.com/user-attachments/assets/19f66ed5-d4e0-444b-bfdb-bd4fe3e710f3" />
+- Ubuntu/Linux.
+- Bash Shell Scripting.
+- Postfix.
+- Mailutils.
+- Cron.
+- Whiptail.
+- Standard Linux utilities such as:
+  - `top`
+  - `free`
+  - `df`
+  - `systemctl`
+  - `ping`
+  - `awk`
+  - `sed`
 
-
-## Project Structure
+## Project Structure -
 
 ```text
-ServerMonitoringSystem/
-│
+Automated Server Monitoring System/
 ├── monitor.sh
 ├── dashboard.sh
 ├── install.sh
-│
 ├── config/
+│   └── threshold.conf
 ├── modules/
+│   ├── cpu_monitor.sh
+│   ├── memory_monitor.sh
+│   ├── disk_monitor.sh
+│   ├── service_monitor.sh
+│   ├── network_monitor.sh
+│   ├── alert.sh
+│   └── logger.sh
 ├── logs/
 ├── reports/
-└── README.md
+├── .gitignore
+├── README.md
+└── LICENSE
 ```
 
-## Installation
+## Project Dashboard -
+<img width="811" height="581" alt="Screenshot from 2026-09-19 20-25-09" src="https://github.com/user-attachments/assets/19f66ed5-d4e0-444b-bfdb-bd4fe3e710f3" />
 
-```bash
-git clone https://github.com/your-username/Automated-Server-Monitoring-System.git
+## Learning Outcomes -
 
-cd Automated-Server-Monitoring-System
+* Linux Administration.
+* Shell Scripting.
+* Automation.
+* Cron Jobs.
+* Log Management.
+* System Monitoring.
+* DevOps Fundamentals.
 
-chmod +x *.sh
-chmod +x modules/*.sh
+## Future Enhancements -
 
-./install.sh
-```
+* Docker Monitoring.
+* Multi-Server Monitoring.
+* Web Dashboard.
+* Grafana Integration.
+* Cloud Monitoring.
 
-## Run Project
+## License -
 
-Start Monitoring:
+MIT License.
 
-```bash
-./monitor.sh
-```
-
-Open Dashboard:
-
-```bash
-./dashboard.sh
-```
-
-## Configuration
-
-Edit the threshold values in:
-
-```bash
-config/threshold.conf
-```
-
-Example:
-
-```bash
-CPU_THRESHOLD=80
-MEMORY_THRESHOLD=80
-DISK_THRESHOLD=85
-ADMIN_EMAIL=your-email@example.com
-```
-
-## Learning Outcomes
-
-* Linux Administration
-* Shell Scripting
-* Automation
-* Cron Jobs
-* Log Management
-* System Monitoring
-* DevOps Fundamentals
-
-## Future Enhancements
-
-* Docker Monitoring
-* Multi-Server Monitoring
-* Web Dashboard
-* Grafana Integration
-* Cloud Monitoring
-
-## License
-
-MIT License
-
-## Author
+## Author -
 
 [Sultan Mulani](https://github.com/Sultan-08)
