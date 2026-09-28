@@ -1,14 +1,14 @@
 [2026-09-22 15:47:11] Alert: Test alert
-[2026-09-22 15:47:11] Email alert sent to sultan.y.mulani@gmail.com
+[2026-09-22 15:47:11] Email alert sent to your-mail@gmail.com
 [2026-09-22 15:48:15] Alert: High CPU Usage Detected: 92%
-[2026-09-22 15:48:15] Email alert sent to sultan.y.mulani@gmail.com
+[2026-09-22 15:48:15] Email alert sent to your-mail@gmail.com
 [2026-09-24 20:25:26] Alert: High CPU Usage Detected: 2.90% (Threshold: 1%)
-[2026-09-24 20:25:26] Email alert sent to sultan.y.mulani@gmail.com
+[2026-09-24 20:25:26] Email alert sent to your-mail@gmail.com
 [2026-09-24 20:37:16] Alert: High Memory Usage Detected: 31.89% (Threshold: 1%)
-[2026-09-24 20:37:16] Email alert sent to sultan.y.mulani@gmail.com
+[2026-09-24 20:37:16] Email alert sent to your-mail@gmail.com
 [2026-09-25 12:36:41] Alert: Service Down: ssh is not active (status: inactive)
-[2026-09-25 12:36:41] Email alert sent to sultan.y.mulani@gmail.com
+[2026-09-25 12:36:41] Email alert sent to your-mail@gmail.com
 [2026-09-25 12:36:41] Alert: Service Restart Failed: ssh could not be restored. Current status: inactive
-[2026-09-25 12:36:41] Email alert sent to sultan.y.mulani@gmail.com
+[2026-09-25 12:36:41] Email alert sent to your-mail@gmail.com
 [2026-09-25 12:52:37] Alert: Network Connectivity Failure: Unable to reach 192.0.2.1
-[2026-09-25 12:52:37] Email alert sent to sultan.y.mulani@gmail.com
+[2026-09-25 12:52:37] Email alert sent to your-mail@gmail.com
