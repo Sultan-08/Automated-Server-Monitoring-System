@@ -63,6 +63,9 @@ Automated Server Monitoring System/
 ## Project Dashboard -
 <img width="811" height="581" alt="Screenshot from 2026-09-19 20-25-09" src="https://github.com/user-attachments/assets/19f66ed5-d4e0-444b-bfdb-bd4fe3e710f3" />
 
+## Received Demo Mail -
+<img width="677" height="606" alt="image" src="https://github.com/user-attachments/assets/16735af9-852b-4947-9ff6-c96732d00cc1" />
+
 ## Learning Outcomes -
 
 * Linux Administration.
