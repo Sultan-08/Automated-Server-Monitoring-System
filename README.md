@@ -65,6 +65,7 @@ Automated Server Monitoring System/
 
 ## Received Demo Mail -
 <img width="677" height="606" alt="image" src="https://github.com/user-attachments/assets/16735af9-852b-4947-9ff6-c96732d00cc1" />
+<img width="953" height="144" alt="Screenshot from 2026-10-22 20-59-26" src="https://github.com/user-attachments/assets/17aa10f6-9b31-4a22-a457-71366db66684" />
 
 ## Learning Outcomes -
 
